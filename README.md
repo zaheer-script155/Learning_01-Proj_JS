@@ -3,4 +3,4 @@ This is my 2nd Repo for Learning_01-Proj_JS
 <br>
 My learning projects jounery. i did upload 01 learning project
 <br>
-Auther - ZAHEER ABBAS
+Auther - ZAHEER ABBAS.
